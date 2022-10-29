@@ -1,7 +1,5 @@
 body{
     background-color: darkorange;
-   
-    
 }
 
 .grande{
@@ -11,8 +9,6 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    
-    
 }
 
 .pequeño{
