@@ -1,0 +1,25 @@
+body{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+div{
+    width: 500px;
+    height: 600px;
+    background-color: cornsilk;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+img{
+    max-width: 200px;
+    max-height: 200px;
+}
+img:nth-child(3){
+    max-height: 130px;
+    max-width: 200px;
+}
